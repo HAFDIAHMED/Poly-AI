@@ -126,7 +126,3 @@ The implemented method in the code is used to solve the minimum spanning tree pr
 
 
 
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftahazafar123%2FPloy-AI.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftahazafar123%2FPloy-AI?ref=badge_large)
