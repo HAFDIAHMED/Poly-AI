@@ -51,7 +51,7 @@ The given problem is a type of analytical mathematics. After reading the questio
 Ans3: 
 In the developed algorithm Dijkstra's method is used to determine the shortest path. The working principle behind this technique is that given the shortest path between and each of a given set of nodes  , there must be another node x. Therefore, the shortest path from x must go from to  to x, for some 1 < i < 500. The code is developed on the discussed logic to determine the shortest path for Mr. Little Z to reach planet Zearth. The approach can further be improved by introducing an algorithm that works on the negative edges as well. Moreover, the processing time can be improved by avoiding blind search. 
 
-Question 2 
+Question 2*
 After a long deferment, the mayor of Z-city has allowed pizzerias to be opened in town. Pizzerias used to be unlawful because of health reasons (according to the mayor). The city is big, and suddenly there are pizzerias everywhere.
 
 We can imagine the city like a matrix with NxN squares, where every square represents one block of the city. Every pizzeria only delivers pizza to the nearby blocks. Specifically, every pizzeria delivers pizza to every block that is at most R blocks away from block the pizzeria's location. Distance is determined by the minimum number of blocks that the delivery guy must take if he is going East/West or North/South (moving diagonally is forbidden in Z-city). For example, let's say that N=5 and a pizzeria is located at the block (3, 3). It can deliver to a 2 block distance at most. The following map shows where the given pizzeria delivers pizzas.
