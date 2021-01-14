@@ -8,6 +8,7 @@ Mr. Little Z opened http://www.Space-net.spc and found a list of all the space t
 
 Help Mr. Little Z find the safest path from Earth to the planet Zearth: the path where the longest distance he has to teleport is minimized.
 
+
 INPUT:
 The first line of the standard input contains three real numbers, each from the interval [-10000.00, 10000.00], representing the 3D coordinates of the planet Zearth. The next line contains a number N, corresponding to the number of teleportation stations in space (1<=N<=500). Each of the next N lines contains three real numbers each from the interval [-10000.00, 10000.00], representing the 3D coordinates for each station.
 
